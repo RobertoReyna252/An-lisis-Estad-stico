@@ -1,4 +1,4 @@
-# Introducción al Proyecto
+# Introducción del Proyecto
 ### Contexto del Proyecto
 Eres analista en una gran tienda en línea. Junto con el departamento de marketing has recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos. Tu tarea es priorizar estas hipótesis, lanzar un test A/B y analizar los resultados.
 
